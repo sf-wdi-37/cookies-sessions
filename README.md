@@ -150,7 +150,7 @@ end
 ```
 
 #### Exercises
-Today's lab can be found here: **[Cookie Monster App](https://github.com/sf-wdi-33/cookie-monster-app)**
+Today's lab can be found here: **[Cookie Monster App](https://github.com/sf-wdi-labs/cookie-monster-app)**
 
 #### Resources
 * [Rails Guides: Securing Sessions](http://guides.rubyonrails.org/security.html)
