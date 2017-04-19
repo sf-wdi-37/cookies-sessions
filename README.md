@@ -65,7 +65,7 @@ Connection: keep-alive
 <html></html>
 ```
 
-The Cookie is then saved to the browser for localhost:3000. You can view it in the Chrome Developer Console under the "resources" tab.
+The Cookie is then saved to the browser for localhost:3000. You can view it in the Chrome Developer Console under the "application" tab.
 
 Here's a look at the cookie from a google page:
 
