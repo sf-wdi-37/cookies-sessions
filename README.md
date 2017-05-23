@@ -29,6 +29,16 @@ There are a few ways to ensure that your users experience "continuity" between v
 - Make HTTP requests.
 - Use the Chrome Dev tools.
 
+## Stateless Web
+### Stateless vs. Stateful systems
+[This Prezi](https://prezi.com/2_slmoibahi1/stateless-vs-stateful/) is a good summary of the difference between stateful and a stateless systems. 
+
+These two philosophies stand on either side of one question:
+
+**Should a system (program) remember the last interactions it had in responding to new interactions?**
+
+Stateless systems do not hold any record of previous interactions. Stateful systems do. HTTP (hypertext transfer protocol) is **stateless**. Cookies give us the ability to make stateful requests and responses.
+
 ## Cookies
 ### What's a cookie?
 An HTTP cookie is a [small piece of data](http://stackoverflow.com/questions/4100324/how-many-characters-can-be-stored-in-4kb) sent from a website and stored in a user's web browser. Every time the user loads the website, the browser sends the cookie back to the server in the HTTP Request Header. Cookies are commonly used to track whether a user is logged in or not. They can also be used to record user preferences.
